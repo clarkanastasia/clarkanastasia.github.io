@@ -1,0 +1,17 @@
+
+h2 {
+    text-align: center;
+}
+
+.card {
+    margin-bottom: 10px;
+    height: 600px;
+}
+
+.profile-img {
+    border-radius: 50%;
+    }
+
+.text-body-emphasis {
+    margin-bottom: 20px;
+}
